@@ -5,7 +5,6 @@ Este proyecto es una aplicación de cuestionarios desarrollada en React. Permite
 ## Características
 
 -   Interfaz de usuario intuitiva y atractiva.
--   Preguntas de opción múltiple con respuestas correctas e incorrectas.
 -   Retroalimentación inmediata sobre las respuestas seleccionadas.
 -   Puntuación final basada en el número de respuestas correctas.
 -   Opción para reiniciar el cuestionario y volver a intentarlo.
